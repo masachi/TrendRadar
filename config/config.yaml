@@ -111,6 +111,10 @@ rss:
       name: "Hacker News"
       url: "https://hnrss.org/frontpage"
       
+   - id: "X-GithubDaily"
+      name: "X-GithubDaily"
+      url: "https://rss.xcancel.com/search/rss?f=tweets&amp;q=GithubDaily"
+      
     # 自定义源示例
     # - id: "custom-feed"
     #   name: "自定义源"
