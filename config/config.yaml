@@ -111,7 +111,7 @@ rss:
       name: "Hacker News"
       url: "https://hnrss.org/frontpage"
       
-   - id: "X-GithubDaily"
+    - id: "X-GithubDaily"
       name: "X-GithubDaily"
       url: "https://rss.xcancel.com/search/rss?f=tweets&amp;q=GithubDaily"
       
