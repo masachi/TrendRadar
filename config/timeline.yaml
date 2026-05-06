@@ -350,10 +350,10 @@ presets:
       7: "all_day"
 
 
-day_summary:
+  day_summary:
     name: "特定时间推送模式"
     description: "特定时间推送"
-
+  
     default:
       collect: true
       analyze: false
@@ -363,7 +363,7 @@ day_summary:
       once:
         analyze: true              # 每个时段只分析一次
         push: true                 # 每个时段只推送一次
-
+  
     periods:
       afternoon_peek:
         name: "午后速览"
